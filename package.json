@@ -1,0 +1,37 @@
+{
+  "name": "prototype-emitter",
+  "description": "Define EventEmitter listeners on a class instead of each individual instance",
+  "version": "0.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "inherits": "^2.0.1",
+    "sliced": "0.0.5",
+    "events": "^1.0.0"
+  },
+  "devDependencies": {
+    "tape": "^2.10.2",
+    "faucet": "^0.0.1"
+  },
+  "scripts": {
+    "test": "node test | faucet"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
+  "license": "MIT",
+  "homepage": "http://hughsk.github.io/prototype-emitter",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/prototype-emitter"
+  },
+  "bugs": {
+    "url": "https://github.com/hughsk/prototype-emitter/issues"
+  },
+  "keywords": [
+    "prototype",
+    "emitter",
+    "class",
+    "definition",
+    "alternative",
+    "mixin",
+    "events"
+  ]
+}
