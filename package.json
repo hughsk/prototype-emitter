@@ -1,7 +1,7 @@
 {
   "name": "prototype-emitter",
   "description": "Define EventEmitter listeners on a class instead of each individual instance",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "index.js",
   "dependencies": {
     "inherits": "^2.0.1",
